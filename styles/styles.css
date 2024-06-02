@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+:root{
+    --fonte: "Oswald";
+
+    --azul: #003049;
+    --vermelho: #D62828;
+    --laranja: #F77F00;
+    --amarelo: #FCBF49;
+    --bege: #EAE2B7;
+}
